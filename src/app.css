@@ -1,0 +1,35 @@
+body {
+  margin-top: 33px;
+  background-color: rgb(230, 243, 242);
+}
+
+.menu {
+  margin-bottom: 20px;
+  height: 60px;
+}
+
+.img {
+  height: 280px;
+  width: 300px;
+}
+
+.imgCart {
+  box-sizing: border-box;
+  height: 2px;
+  width: 2px;
+  border: 1px solid gainsboro;
+}
+
+.textProduct {
+  margin-bottom: 20px;
+}
+
+.search {
+  box-sizing: border-box;
+  width: 371px;
+  background-color: gainsboro;
+}
+
+.modal-dialog {
+  margin-left: 720px;
+}

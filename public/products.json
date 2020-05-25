@@ -1,0 +1,79 @@
+[
+    {
+      "id": 0,
+      "title": "Биойогурт Активиа",
+      "type": "milk",
+      "image": "https://media.5ka.ru/media/products/74309.jpg",
+      "description": "киви/мюсли 2,9 % 150г.",
+      "price": 26
+    },
+    {
+      "id": 1,
+      "title": "Молоко Домик в Деревне",
+      "type": "milk",
+      "image": "https://media.5ka.ru/media/products/3255795.jpg",
+      "description": "Ультрапастеризованное. Отборное 3,5%-4,5% 930мл.",
+      "price": 56
+    },
+    {
+      "id": 2,
+      "title": "Шоколад Бабаевский",
+      "type": "sugar",
+      "image": "https://media.5ka.ru/media/products/3605224.jpg",
+      "description": "Шоколад Ореховый, Бабаевский, 60 г.",
+      "price": 59
+    },    
+    {
+      "id": 3,
+      "title": "Мармелад Шарлиз",
+      "type": "sugar",
+      "image": "https://media.5ka.ru/media/products/3210545.jpg",
+      "description": "Белевский мармелад – сладкое лакомство, получаемое из пюре и мякоти фруктов с добавлением загустителя. 260г. Ассорти.",
+      "price": 115
+    },    
+    {
+      "id": 4,
+      "title": "Вафли Рахат Арахисовые",
+      "type": "sugar",
+      "image": "https://ul-market.ru/base/data/Paxat_waffle_araxis.jpg",
+      "description": "Три слоя вафельных листов и два слоя пралиновой начинки с добавлением молочных продуктов и тертого арахиса.",
+      "price": 32
+    },    
+    {
+      "id": 5,
+      "title": "Сыр плавленый Фетакса",
+      "type": "cheese",
+      "image": "https://media.5ka.ru/media/products/3906892.jpg",
+      "description": "Сыр Фетакса идеально подойдет для завтрака в теплом семейном кругу. 45% 200г.",
+      "price": 58
+    },    {
+      "id":6,
+      "title": "Сыр Вкуснотеево",
+      "type": "cheese",
+      "image": "https://media.5ka.ru/media/products/3605249.jpg",
+      "description": "ТИЛЬЗИТЕР ПРЕМИУМ 45% 200г.",
+      "price": 85
+    },    {
+      "id": 7,
+      "title": "Бекон из свинины Делко",
+      "type": "meat",
+      "image": "https://ul-market.ru/base/data/delko_bekon_svin_lubitel_kv_kg.jpg",
+      "description": "Продукция ДелКо изготавливается из отборного охлаждённого мяса и натуральных, ароматных специй.",
+      "price": 151
+    },    {
+      "id": 8,
+      "title": "Колбаски Делко Баварские",
+      "type": "meat",
+      "image": "https://ul-market.ru/base/data/delko_kolbaski_bavarskie_200g.jpg",
+      "description": "Колбасы ДелКо приготовлены по традиционным технологиям из высококачественного сырья.",
+      "price": 79
+    },
+    {
+      "id": 9,
+      "title": "Хлеб Геркулес",
+      "type": "bread",
+      "image": "https://media.5ka.ru/media/products/2059535.jpg",
+      "description": "Хлеб зерновой в нарезке 500г.",
+      "price": 32
+    }
+  ]
